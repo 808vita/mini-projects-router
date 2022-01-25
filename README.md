@@ -1,7 +1,7 @@
 ## Mini Projects Router
 
 Welcome Home!
-This is the HomeScreen of this project!
+
 This project routes to multiple "Mini Projects" using React Router.
 
 Mini Projects:
